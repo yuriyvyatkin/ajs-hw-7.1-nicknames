@@ -2,4 +2,4 @@ import Validator from './basic';
 
 console.log('app worked');
 
-console.log(Validator.validateUsername('abc123abc'));
+console.log(Validator.validateUsername('aBc123-456xYz'));
